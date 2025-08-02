@@ -34,3 +34,19 @@ I'm Temitope, a Frontend Developer.
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
+
+<h3>👨‍💻 Programming and Markup Languages</h3>
+
+  <p>
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' alt="Ceylon" src="https://custom-icon-badges.demolab.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white">
+      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agroovy"><img alt="Groovy" src="https://custom-icon-badges.demolab.com/badge/Groovy-4298B8.svg?logo=apachegroovy&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  </p>
