@@ -1,6 +1,6 @@
-### Hi, there 👋
+### <h3 align="center">Hi, there</h3> 👋
 
-<p>I'm Frank, a Frontend Developer</p>
+<p align="center">I'm Frank, a Frontend Developer</p>
 
 <!-- Social icons section -->
 <p align="center">
