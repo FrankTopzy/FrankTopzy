@@ -51,4 +51,17 @@ I'm Temitope, a Frontend Developer.
       <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
   </p>
 
+
+
+  
+
   ## <h3>Stats</h3>
+
+
+
+
+
+
+
+
+
