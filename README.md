@@ -52,6 +52,8 @@ I'm Temitope, a Frontend Developer.
 
 ## Stats
 
+![FRANK's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankTopzy&show_icons=true&theme=gruvbox)
+
 
 
 
