@@ -37,25 +37,20 @@ I'm Temitope, a Frontend Developer.
 
 <h3>👨‍💻Languages and Tools</h3>
 
-  <p style="margin-bottom: 30px;">
-      <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-      <img align='left' alt='css' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-      <img align='left' alt='js' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img align='left' alt='tailwind' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-      <img align='left' alt='sass' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-      <img align='left' alt='php' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-      <img align='left' alt='react' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-      <img align='left' alt='git' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-      <img align='left' alt='github' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-      <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
-  </p>
+<img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align='left' alt='css' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align='left' alt='js' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align='left' alt='tailwind' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align='left' alt='sass' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align='left' alt='php' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align='left' alt='react' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align='left' alt='git' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align='left' alt='github' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+<img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<br/>
 
-
-
-  
-
-  ## <h3>Stats</h3>
+## Stats
 
 
 
