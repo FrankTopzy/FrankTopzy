@@ -35,7 +35,7 @@ I'm Temitope, a Frontend Developer.
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻Languages and Tools</h3>
 
   <p>
       <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -47,5 +47,6 @@ I'm Temitope, a Frontend Developer.
       <img align='left' alt='react' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       <img align='left' alt='git' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
       <img align='left' alt='github' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
+      <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+      <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
   </p>
