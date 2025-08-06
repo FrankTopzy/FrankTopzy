@@ -31,7 +31,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
 
-<h3>👨‍💻Languages and Tools</h3>
+<h3 style='font-weight: bold;'>👨‍💻LANGUAGES & TOOLS</h3>
 
 <img align='left' alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align='left' alt='css' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
@@ -45,8 +45,12 @@
 <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
 <img align='left' alt='typescript' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <br/>
+<br/>
+<br/>
 
-### 📊 Stats
+
+### <h3 style='font-weight: bold;'>📊 STATS</h3>
+ 
 
 ![FRANK's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankTopzy&show_icons=true&theme=gruvbox)
 
