@@ -53,8 +53,9 @@
  
 
 ![FRANK's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankTopzy&show_icons=true&theme=gruvbox)
-
-### Top Languages
+<br/>
+<br/>
+### <h3 style='font-weight: bold;'>📊 TOP LANGUAGES</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankTopzy&hide_progress=true)
 
