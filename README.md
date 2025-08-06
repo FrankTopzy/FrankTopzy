@@ -1,4 +1,4 @@
-### <h3 align="center">Hi, there 👋</h3>
+### <h1 align="center">Hi, there 👋</h1>
 
 <h1 align="center" style="color: grey;">I'm Frank, a Frontend Developer</h1>
 
