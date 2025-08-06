@@ -58,6 +58,38 @@
 ### <h3 style='font-weight: bold;'>📊 TOP LANGUAGES</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankTopzy&hide_progress=true)
+<br/>
+<br/>
+<br/>
+
+
+### <h3 style='font-weight: bold;'>📊 DEMO</h3>
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+
+Use [show\_owner](#gist-card-exclusive-options) query option to include the gist's owner username
+
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
+<br/>
+<br/>
+<br/>
+
+
+### <h3 style='font-weight: bold;'>📊 TOP LANGUAGES CARD</h3>
+
+The top languages card shows a GitHub user's most frequently used languages.
+
+> [!WARNING]\
+> By default, the language card shows language results only from public repositories. To include languages used in private repositories, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
+
+> [!NOTE]\
+> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.
+
+> [!WARNING]\
+> This card shows language usage only inside your own non-forked repositories, not depending on who the author of the commits is. It does not include your contributions into another users/organizations repositories. Currently there are no way to get this data from GitHub API. If you want this behavior to be improved you can support [this feature request](https://github.com/orgs/community/discussions/18230) created by [@rickstaa](https://github.com/rickstaa) inside GitHub Community.
+
+> [!WARNING]\
+> Currently this card shows data only about first 100 repositories. This is because GitHub API limitations which cause downtimes of public instances (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). In future this behavior will be improved by releasing GitHub action or providing environment variables for user's own instances.
 
 
 
