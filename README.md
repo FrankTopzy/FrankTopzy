@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt=""/>
 ### <h1 align="center">Hi, there 👋</h1>
 
 <h1 align="center" style="color: grey;">I'm Frank, a <b>FRONTEND DEVELOPER</b></h1>
