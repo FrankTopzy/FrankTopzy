@@ -34,7 +34,7 @@
 
 <h3 style='font-weight: bold;' align="center">👨‍💻LANGUAGES & TOOLS</h3>
 
-<img align="center" alt='HTML' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt='HTML' width='30px' style='padding-right: 10px; position: inline-block' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt='css' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 <img align="center" alt='js' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt='tailwind' width='30px' style='padding-right: 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
